@@ -1,4 +1,4 @@
-Introduction1
+Introduction
 ============
 
 Ext7 is a set of API extensions for Windows 7 that allow some Windows 8, 8.1 and 10-exclusive applications to run on Windows 7.
